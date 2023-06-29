@@ -1,0 +1,10 @@
+ITEM.base = "base_equipment"
+ITEM.name = "Gasmask"
+ITEM.description = "A mask designed to prevent you from breathing in harmful substances."
+ITEM.model = "models/gibs/hgibs.mdl"
+ITEM.category = "categoryGasmask"
+ITEM.slot = EQUIP_MASK
+ITEM.width = 1
+ITEM.height = 1
+ITEM.business = false
+ITEM.CanBreakDown = false

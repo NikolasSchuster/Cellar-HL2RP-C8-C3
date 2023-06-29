@@ -1,0 +1,4 @@
+-- local PLUGIN = PLUGIN
+-- ITEM.name = "Пример радио";
+-- ITEM.model = "models/props/cs_office/radio.mdl";
+-- ITEM.description = "Крутое радио";
