@@ -16,7 +16,7 @@ ix.option.Add("drawTools", ix.type.bool, false, {
 		return LocalPlayer():IsAdmin()
 	end
 })
-
+--[[
 ix.dialogues.Add("mark_pootis", {
 	["GREETINGS"] = {
 		response = "Привет. Чем могу быть полезен?",
@@ -321,3 +321,4 @@ ix.dialogues.Add("mark_pootis", {
 		flags = DFLAG_GOODBYE
 	}
 })
+--]]
