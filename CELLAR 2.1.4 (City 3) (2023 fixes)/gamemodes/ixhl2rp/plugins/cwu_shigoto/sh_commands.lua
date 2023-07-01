@@ -8,3 +8,4 @@ ix.command.Add("FacilityDestroy", {
 
 
 })
+--]]
