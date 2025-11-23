@@ -419,7 +419,7 @@ function GM:NetworkEntityCreated(entity)
 	end
 end
 
-local vignette = ix.util.GetMaterial("clockwork/vignette.png")
+local vignette = ix.util.GetMaterial("helix/gui/vignette.png")
 local vignetteAlphaGoal = 0
 local vignetteAlphaDelta = 0
 local vignetteTraceHeight = Vector(0, 0, 768)
